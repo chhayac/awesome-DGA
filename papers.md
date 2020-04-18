@@ -11,3 +11,8 @@ Detecting the Rise of DGA-Based Malware](https://www.usenix.org/system/files/con
 * [Predicting Domain Generation Algorithms
 with Long Short-Term Memory Networks](https://www.covert.io/research-papers/deep-learning-security/Predicting%20Domain%20Generation%20Algorithms%20with%20Long%20Short-Term%20Memory%20Networks.pdf), Woodbridge et al., arXiv preprint arXiv:1611.00791 (2016).
 * [FANCI: Feature-based Automated NXDomain Classification and Intelligence](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-schuppen.pdf), Schüppen et al., USENIX Security 2018.
+* [Inline Detection of Domain Generation Algorithms with Context-Sensitive
+Word Embeddings](https://arxiv.org/pdf/1811.08705.pdf), Koh et al., Proceedings of 2018 IEEE
+International Conference on Big Data, 2018, pp.2965–2970.
+
+
