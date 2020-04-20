@@ -12,5 +12,6 @@ A curated list of machine learning resources for Domain Generation Algorithm (DG
 | Predicting Domain Generation Algorithms with Long Short-Term Memory Networks | [Link](https://www.covert.io/research-papers/deep-learning-security/Predicting%20Domain%20Generation%20Algorithms%20with%20Long%20Short-Term%20Memory%20Networks.pdf) | Woodbridge et al. | arXiv preprint arXiv:1611.00791 (2016)|
 | FANCI: Feature-based Automated NXDomain Classification and Intelligence| [Link](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-schuppen.pdf) | Schüppen et al. | USENIX Security 2018|
 | Inline Detection of Domain Generation Algorithms with Context-Sensitive Word Embeddings| [Link](https://arxiv.org/pdf/1811.08705.pdf) | Koh et al. | Proceedings of 2018 IEEE International Conference on Big Data, 2018, pp.2965–2970|
+| A LSTM based framework for handling multiclass imbalance in DGA botnet detection| [Link](https://www.researchgate.net/publication/321165269_A_LSTM_based_Framework_for_Handling_Multiclass_Imbalance_in_DGA_Botnet_Detection) | Tran et al. | Neurocomputing, vol. 275, pp. 2401–2413, 2018|
 
 
