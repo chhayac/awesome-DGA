@@ -15,7 +15,7 @@ A curated list of machine learning resources for Domain Generation Algorithm (DG
 | A LSTM based framework for handling multiclass imbalance in DGA botnet detection| [Link](https://www.researchgate.net/publication/321165269_A_LSTM_based_Framework_for_Handling_Multiclass_Imbalance_in_DGA_Botnet_Detection) | Tran et al. | Neurocomputing, vol. 275, pp. 2401–2413, 2018|
 | Detecting DGA Domains with Recurrent Neural Networks and Side Information| [Link](https://arxiv.org/pdf/1810.02023.pdf) | Curtin et al. | Proceedings of the 14th International Conference on Availability, Reliability and Security. ACM, 2019|
 | Algorithmically Generated Domain Detection and Malware Family classification| [Link](http://faculty.washington.edu/mdecock/papers/cchoudhary2018a.pdf) | Choudhary et al. | International Symposium on Security in Computing and Communication. Springer, 2018, pp. 640–655|
-
+| An Evaluation of DGA Classifiers| [Link](http://faculty.washington.edu/mdecock/papers/rsivaguru2018a.pdf) | Sivaguru et al. | 2018 IEEE International Conference on Big Data, 2018, pp. 5058–5067|
 
 
 
