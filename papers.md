@@ -16,7 +16,7 @@ A curated list of machine learning resources for Domain Generation Algorithm (DG
 | Detecting DGA Domains with Recurrent Neural Networks and Side Information| [Link](https://arxiv.org/pdf/1810.02023.pdf) | Curtin et al. | Proceedings of the 14th International Conference on Availability, Reliability and Security. ACM, 2019|
 | Algorithmically Generated Domain Detection and Malware Family classification| [Link](http://faculty.washington.edu/mdecock/papers/cchoudhary2018a.pdf) | Choudhary et al. | International Symposium on Security in Computing and Communication. Springer, 2018, pp. 640–655|
 | An Evaluation of DGA Classifiers| [Link](http://faculty.washington.edu/mdecock/papers/rsivaguru2018a.pdf) | Sivaguru et al. | 2018 IEEE International Conference on Big Data, 2018, pp. 5058–5067|
-
+| Character Level Based Detection of DGA Domain Names| [Link](https://faculty.washington.edu/mdecock/papers/byu2018a.pdf) | Yu et al. | Proc. WCCI, 2018, pp. 4168–4175|
 
 
 
