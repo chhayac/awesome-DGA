@@ -18,5 +18,7 @@ A curated list of machine learning resources for Domain Generation Algorithm (DG
 | An Evaluation of DGA Classifiers| [Link](http://faculty.washington.edu/mdecock/papers/rsivaguru2018a.pdf) | Sivaguru et al. | 2018 IEEE International Conference on Big Data, 2018, pp. 5058–5067|
 | Character Level Based Detection of DGA Domain Names| [Link](https://faculty.washington.edu/mdecock/papers/byu2018a.pdf) | Yu et al. | Proc. WCCI, 2018, pp. 4168–4175|
 | Dictionary Extraction and Detection of Algorithmically Generated Domain Names in Passive DNS Traffic| [Link](http://faculty.washington.edu/mdecock/papers/mpereira2018a.pdf) | Pereira et al. | International Symposium on Research in Attacks, Intrusions, and Defenses Springer, 2018, pp. 295–314|
+| Weakly Supervised Deep Learning for the Detection of Domain Generation Algorithms| [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8691763) | Yu et al. | IEEE Access, vol. 7, pp. 51 542–51 556, 2019|
+
 
 
