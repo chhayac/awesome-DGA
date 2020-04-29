@@ -21,4 +21,5 @@ A curated list of machine learning resources for Domain Generation Algorithm (DG
 | Weakly Supervised Deep Learning for the Detection of Domain Generation Algorithms| [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8691763) | Yu et al. | IEEE Access, vol. 7, pp. 51 542–51 556, 2019|
 | Phoenix: DGA-based Botnet Tracking and Intelligence| [Link](http://www.syssec-project.eu/m/page-media/3/schiavoni-dimva14-phoenix.pdf) | Schiavoni et al. | International Conference on Detection of Intrusions and Malware, and Vulnerability Assessment. Springer, 2014, pp. 192–211|
 | DeepDGA: Adversarially-Tuned Domain Generation and Detection| [Link](https://arxiv.org/pdf/1610.01969.pdf) | Anderson et al. | Proceedings of the 2016 ACM Workshop on Artificial Intelligence and Security, 2016, pp. 13–21|
+| Exposure: A Passive DNS Analysis Service to Detect and Report Malicious Domains| [Link](https://sites.cs.ucsb.edu/~chris/research/doc/ndss11_exposure.pdf) | Bilge et al. | ACM Transactions on Information and System Security (TISSEC), vol. 16, no. 4, 2014|
 
