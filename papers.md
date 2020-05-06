@@ -28,5 +28,6 @@ A curated list of machine learning resources for Domain Generation Algorithm (DG
 | Discovering Malicious Domains through Passive DNS Data Graph Analysis| [Link](https://dl.acm.org/doi/pdf/10.1145/2897845.2897877) |  Khalil et al. | Proceedings of the 11th ACM on Asia Conference on Computer and Communications Security, 2016, pp. 663–674|
 | Automatic detection of malware-generated domains with recurrent neural models| [Link](https://arxiv.org/pdf/1709.07102.pdf) |  Lison et al. | arXiv preprint arXiv:1709.07102, 2017|
 | Popularity-based Detection of Domain Generation Algorithms | [Link](https://www.cyber-threat-intelligence.com/publications/WMR2017-DGA.pdf) | Abbink et al. |Proceedings of the 12th International Conference on Availability, Reliability and Security, no. 79. ACM, 2017|
+| Stealthy Domain Generation Algorithms | [Link](https://ieeexplore.ieee.org/abstract/document/7852496) |Y Fu et al. | IEEE Transactions on Information Forensics & Security, 12, 6 (February 13, 2017), 1430--1443|
 
 
