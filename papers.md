@@ -33,7 +33,7 @@ A curated list of machine learning resources for Domain Generation Algorithm (DG
 | Scalable Detection of Botnets based on DGA | [Link](https://www.researchgate.net/profile/Mattia_Zago/publication/330490815_Scalable_detection_of_botnets_based_on_DGA_Efficient_feature_discovery_process_in_machine_learning_techniques/links/5c487a0e92851c22a38ad007/Scalable-detection-of-botnets-based-on-DGA-Efficient-feature-discovery-process-in-machine-learning-techniques.pdf) |Zago et al.  | J. Internet Serv. Inf. Security (JISIS) 3 (3/4), 116–123 2019.|
 | Detection of Algorithmically Generated Malicious Domain Names using Masked N-Grams | [Link](http://webdiis.unizar.es/~ricardo/files/papers/SRS-ESWA-19.pdf) | Selvi et al.  | Expert Syst. Appl. 124, 156–163 2019.|
 | DBod : Clustering and detecting DGA-based botnets using DNS traﬃc analysis | [Link](https://www.researchgate.net/publication/308978280_DBod_Clustering_and_detecting_DGA-based_botnets_using_DNS_traffic_analysis) | Wang et al.  | Computers and Security 64, 1–15, 2017|
-
+| Breaking Bad: Detecting malicious domains using word segmentation | [Link](https://arxiv.org/pdf/1506.04111.pdf) | Wang et al.  | arXiv preprint arXiv:1506.04111 (2015)|
 
 
 
