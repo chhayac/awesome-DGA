@@ -35,6 +35,6 @@ A curated list of machine learning resources for Domain Generation Algorithm (DG
 | DBod : Clustering and detecting DGA-based botnets using DNS traﬃc analysis | [Link](https://www.researchgate.net/publication/308978280_DBod_Clustering_and_detecting_DGA-based_botnets_using_DNS_traffic_analysis) | Wang et al.  | Computers and Security 64, 1–15, 2017|
 | Breaking Bad: Detecting malicious domains using word segmentation | [Link](https://arxiv.org/pdf/1506.04111.pdf) | Wang et al.  | arXiv preprint arXiv:1506.04111 (2015)|
 | A Survey on Malicious Domains Detection through DNS Data Analysis | [Link](https://arxiv.org/pdf/1805.08426.pdf) | Zhauniarovich et al.  | ACM Computing Surveys (CSUR) 51.4 (2018): 1-36|
-
+| One-Class Adversarial Nets for Fraud Detection | [Link](https://arxiv.org/pdf/1803.01798.pdf) | Zheng et al.  | Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 33. 2019|
 
 # Datasets ..coming soon
