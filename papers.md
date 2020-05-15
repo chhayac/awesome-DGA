@@ -36,5 +36,10 @@ A curated list of machine learning resources for Domain Generation Algorithm (DG
 | Breaking Bad: Detecting malicious domains using word segmentation | [Link](https://arxiv.org/pdf/1506.04111.pdf) | Wang et al.  | arXiv preprint arXiv:1506.04111 (2015)|
 | A Survey on Malicious Domains Detection through DNS Data Analysis | [Link](https://arxiv.org/pdf/1805.08426.pdf) | Zhauniarovich et al.  | ACM Computing Surveys (CSUR) 51.4 (2018): 1-36|
 | One-Class Adversarial Nets for Fraud Detection | [Link](https://arxiv.org/pdf/1803.01798.pdf) | Zheng et al.  | Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 33. 2019|
+| Inline Detection of Domain Generation Algorithms with Context-Sensitive Word Embeddings | [Link](https://arxiv.org/pdf/1811.08705.pdf) | Koh et al.  | IEEE International Conference on Big Data (Big Data). IEEE, 2018 |
+
+
+
+
 
 # Datasets ..coming soon
